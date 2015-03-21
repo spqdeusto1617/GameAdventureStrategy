@@ -11,7 +11,5 @@ public class Barbarian extends Character {
 	// TODO Auto-generated method stub
 
 		System.out.println("You are a strong, hulky barbarian.");
-		String s = "user a añade una linea diferente";
-int i= 0;
 	}
 }
