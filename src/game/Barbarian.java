@@ -12,6 +12,7 @@ public class Barbarian extends Character {
 
 		System.out.println("You are a strong, hulky barbarian.");
 		int = 1;
-		System.out.println("recuperando¿");
+		System.out.println("recuperando");
+
 	}
 }
