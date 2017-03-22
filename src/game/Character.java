@@ -19,4 +19,5 @@ public abstract class Character {
 	        weapon.useWeapon();
 	    }
 		public abstract void display();
+
 }
