@@ -13,6 +13,7 @@ public class Barbarian extends Character {
 		System.out.println("You are a strong, hulky barbarian.");
 		System.out.println("Some changes in master branch.");
 		// Fist Change in Barbarian
+		// Second Change in Barbarian
 		
 	}
 }
